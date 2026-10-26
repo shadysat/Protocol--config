@@ -3,15 +3,15 @@
   "protocols": {
     "cobra": {
       "name": "COBRA VPN",
-      "settings_url": "http://vpn-apk.xyz/cobra/pro/v1?mode=settings"
+      "settings"url": "http://vpn-apk.xyz/cobra/pro/v1"
     },
     "ceme": {
       "name": "CeMe VPN",
-      "settings_url": "http://vpn-apk-8k.xyz/CeMe/VPN?mode=settings"
+      "settings"url": "http://vpn-apk-8k.xyz/ceme/pro/v1"
     },
     "showsat": {
       "name": "SHOWSAT VPN",
-      "settings_url": "http://vpn-apk-8k.xyz/SHOWSAT/VPN?mode=settings"
+      "settings"url": "http://vpn-apk-8k.xyz/showsat/pro/v1"
     }
   }
 }
