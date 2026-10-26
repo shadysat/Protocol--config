@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "protocols": {
+    "cobra": {
+      "name": "COBRA VPN",
+      "settings_url": "http://vpn-apk.xyz/cobra/pro/v1?mode=settings"
+    },
+    "ceme": {
+      "name": "CeMe VPN",
+      "settings_url": "http://vpn-apk-8k.xyz/CeMe/VPN?mode=settings"
+    },
+    "showsat": {
+      "name": "SHOWSAT VPN",
+      "settings_url": "http://vpn-apk-8k.xyz/SHOWSAT/VPN?mode=settings"
+    }
+  }
+}
