@@ -3,15 +3,15 @@
   "protocols": {
     "cobra": {
       "name": "COBRA-UTV",
-      "url": "http://vpn-apk.xyz/cobra/pro/v1"
+      "url": "https://vpn-apk.xyz/cobra/pro/v1"
     },
     "ceme": {
       "name": "CeMe-UTV",
-      "url": "http://vpn-apk-8k.xyz/ceme/pro/v1"
+      "url": "https://vpn-apk-8k.xyz/ceme/pro/v1"
     },
     "showsat": {
       "name": "SHOWSAT-UTV",
-      "url": "http://vpn-apk-8k.xyz/showsat/pro/v1"
+      "url": "https://vpn-apk-8k.xyz/showsat/pro/v1"
     }
   }
 }
