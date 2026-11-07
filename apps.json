@@ -20,7 +20,7 @@
   },
   "vpn": {
     "enabled": true,
-    "api_url": "VPN_SERVICE_API_URL",
+    "api_url": "https://apk4k.xyz/cobra/pro/v1",
     "schema": "protocol-vpn-v2",
     "code_source": "channel_activation_code",
     "activation_action": "activate",
