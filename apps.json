@@ -9,7 +9,7 @@
     },
     "ceme": {
       "name": "CeMe",
-      "api_url": "http://apkch.xyz/CeMePlus/V1/API-V1.php",
+      "api_url": "https://apkch.xyz/CeMe-apkv1-mac/apk-mac/API-V1APK.php",
       "receiver_protocol_url": "http://apkch.xyz/CeMePlus/V1/API-V1.php"
     },
     "showsat": {
