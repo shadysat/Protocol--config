@@ -4,7 +4,7 @@
   "apps": {
     "cobra": {
       "name": "Cobra",
-      "api_url": "http://apkco.xyz/Cobra-apkv1-mac/cobra/API-V1APK.php",
+      "api_url": "http://showsat-apk.com:2082/Cobra-UTV/TV/API-V6APK.php",
       "receiver_protocol_url": "http://apkco.xyz/cobraplus/V1/API-V1.php"
     },
     "ceme": {
