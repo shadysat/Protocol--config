@@ -5,58 +5,34 @@
     "cobra": {
       "name": "Cobra",
       "api_url": "https://apknew.net/Cobra-apkv1-mac/cobra/API-V1APK.php",
-      "receiver_protocol_url": "http://apkco.xyz/cobraplus/V1/API-V1.php",
-      "vpn": {
-        "enabled": true,
-        "api_url": "https://vpn-apk.xyz/cobra/pro/v1",
-        "schema": "protocol-vpn-v2",
-        "code_source": "channel_activation_code",
-        "activation_action": "activate",
-        "status_action": "status",
-        "profile_action": "profile",
-        "options_action": "options",
-        "allow_user_toggle": true,
-        "auto_connect": false,
-        "vpn_types": [
-          "openvpn",
-          "pptp",
-          "l2tp"
-        ]
-      }
+      "receiver_protocol_url": "http://apkco.xyz/cobraplus/V1/API-V1.php"
     },
     "ceme": {
       "name": "CeMe",
       "api_url": "https://apkch.xyz/CeMe-apkv1-mac/apk-mac/API-V1APK.php",
-      "receiver_protocol_url": "http://apkch.xyz/CeMePlus/V1/API-V1.php",
-      "vpn": {
-        "enabled": false,
-        "api_url": "",
-        "code_source": "channel_activation_code",
-        "allow_user_toggle": true,
-        "auto_connect": false,
-        "vpn_types": [
-          "openvpn",
-          "pptp",
-          "l2tp"
-        ]
-      }
+      "receiver_protocol_url": "http://apkch.xyz/CeMePlus/V1/API-V1.php"
     },
     "showsat": {
       "name": "ShowSAT",
       "api_url": "https://ceme.work/ShowSAT-apk/ShowTV-mac/API-V1APK.php",
-      "receiver_protocol_url": "http://apkch.xyz/ShowSAT/V1/API-V1.php",
-      "vpn": {
-        "enabled": false,
-        "api_url": "",
-        "code_source": "channel_activation_code",
-        "allow_user_toggle": true,
-        "auto_connect": false,
-        "vpn_types": [
-          "openvpn",
-          "pptp",
-          "l2tp"
-        ]
-      }
+      "receiver_protocol_url": "http://apkch.xyz/ShowSAT/V1/API-V1.php"
     }
+  },
+  "vpn": {
+    "enabled": true,
+    "api_url": "VPN_SERVICE_API_URL",
+    "schema": "protocol-vpn-v2",
+    "code_source": "channel_activation_code",
+    "activation_action": "activate",
+    "status_action": "status",
+    "profile_action": "profile",
+    "options_action": "options",
+    "allow_user_toggle": true,
+    "auto_connect": false,
+    "vpn_types": [
+      "openvpn",
+      "pptp",
+      "l2tp"
+    ]
   }
 }
