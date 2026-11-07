@@ -20,19 +20,15 @@
   },
   "vpn": {
     "enabled": true,
-    "api_url": "https://apk4k.xyz/cobra/pro/v1",
-    "schema": "protocol-vpn-v2",
-    "code_source": "channel_activation_code",
-    "activation_action": "activate",
-    "status_action": "status",
-    "profile_action": "profile",
-    "options_action": "options",
+    "schema": "zero5g-vpn-v5",
+    "discovery_url": "https://ch4k.fyi/api/cobra/vpn-config",
+    "shared_service": true,
+    "providers": [
+      "cobra",
+      "ceme",
+      "showsat"
+    ],
     "allow_user_toggle": true,
-    "auto_connect": false,
-    "vpn_types": [
-      "openvpn",
-      "pptp",
-      "l2tp"
-    ]
+    "auto_connect": false
   }
 }
