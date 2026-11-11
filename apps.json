@@ -4,7 +4,7 @@
   "apps": {
     "cobra": {
       "name": "Cobra",
-      "api_url": "https://apknew.net/Cobra-apkv1-mac/cobra/API-V1APK.php",
+      "api_url": "https://apkco.xyz/Cobra-apkv1-mac/cobra/API-V1APK.php",
       "receiver_protocol_url": "https://apkco.xyz/cobraplus/V1/API-V1.php"
     },
     "ceme": {
