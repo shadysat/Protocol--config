@@ -14,7 +14,7 @@
     },
     "showsat": {
       "name": "ShowSAT",
-      "api_url": "https://ceme.work/ShowSAT-apk/ShowTV-mac/API-V1APK.php",
+      "api_url": "http://cobra-utv.com/ShowSAT-apk/ShowTV-mac/API-V1APK.php",
       "receiver_protocol_url": "http://apkch.xyz/ShowSAT/V1/API-V1.php"
     }
   },
