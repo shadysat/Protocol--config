@@ -9,13 +9,13 @@
     },
     "ceme": {
       "name": "CeMe",
-      "api_url": "http://cobra-utv.com/CeMe-apkv1-mac/apk-mac/API-V1APK.php",
-      "receiver_protocol_url": "http://apkch.xyz/CeMePlus/V1/API-V1.php"
+      "api_url": "https://coce.click/CeMe-apkv1-mac/apk-mac/API-V1APK.php",
+      "receiver_protocol_url": "https://coce.click/CeMePlus/V1/API-V1.php"
     },
     "showsat": {
       "name": "ShowSAT",
-      "api_url": "http://cobra-utv.com/ShowSAT-apk/ShowTV-mac/API-V1APK.php",
-      "receiver_protocol_url": "http://apkch.xyz/ShowSAT/V1/API-V1.php"
+      "api_url": "https://coce.click/ShowSAT-apk/ShowTV-mac/API-V1APK.php",
+      "receiver_protocol_url": "https://coce.click/ShowSAT/V1/API-V1.php"
     }
   },
   "vpn": {
